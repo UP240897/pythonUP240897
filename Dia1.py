@@ -2,7 +2,7 @@ print("Hola desde Dia1.py")
 # EXCERSISE: LEVEL 1
 
 
-print(3 + 4) #addition ---
+print(3 + 4) #addition ----s
 print(4 - 3) #subtration
 print(4 * 3) #multiplication
 print(4 % 3) #modulus
