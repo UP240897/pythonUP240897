@@ -1,6 +1,6 @@
 #Day 2: Level 2 Exercises
 
-# 1. Verifica los tipos de variables
+# 1. Verifica los tipos de variables-
 print(type('Pedro'))  
 print(type('Guerrero Carranco'))  
 print(type('Pedro Guerrero Carranco'))  

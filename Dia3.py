@@ -1,4 +1,4 @@
-#EXERCICES : LEVEL 1  (1-4)===============
+#EXERCICES : LEVEL 1  (1-4)=============== -
 Age = 18                  #Numero entero
 Height = 1.72             #Numero flotante
 NC = 2 + 4j               #Numero complejo
